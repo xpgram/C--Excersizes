@@ -9,3 +9,4 @@ Drill 05: IO and Boolean Logic
 Drill 06: Branching Logic  
 Drill 07: While/Do-While Loops  
 Drill 08: Strings and StringBuilder  
+Drill 09: Arrays and Lists  
