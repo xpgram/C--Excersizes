@@ -11,3 +11,4 @@ Drill 07: While/Do-While Loops
 Drill 08: Strings and StringBuilder  
 Drill 09: Arrays and Lists  
 Drill 10: Loops, Arrays and Lists  
+Drill 11: Exceptions, Try/Catch Blocks  
