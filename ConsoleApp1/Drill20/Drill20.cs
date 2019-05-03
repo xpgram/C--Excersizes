@@ -23,6 +23,8 @@ namespace ConsoleApp1
                 Console.WriteLine("But not for long.");
             }
 
+            man = guy;
+
             Console.Read();
         }
 
