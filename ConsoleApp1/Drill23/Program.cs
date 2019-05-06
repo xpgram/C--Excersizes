@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace Drill23
 {
     static class Program
     {
-        static void Main()
+        public static void run()
         {
             Number n = 100m;
 

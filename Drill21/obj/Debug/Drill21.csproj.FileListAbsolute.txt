@@ -1,0 +1,6 @@
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\bin\Debug\Drill21.exe.config
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\bin\Debug\Drill21.exe
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\bin\Debug\Drill21.pdb
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\obj\Debug\Drill21.csproj.CoreCompileInputs.cache
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\obj\Debug\Drill21.exe
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill21\obj\Debug\Drill21.pdb

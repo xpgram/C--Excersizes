@@ -6,7 +6,7 @@ namespace Drill24
 {
     static class Program
     {
-        static void Main()
+        public static void run()
         {
             string[] namesf = new string[] { "Joe", "Zell", "Selphie", "Squall", "Rinoa", "Quistis", "Irvine" };
             string[] namesl = new string[] { "Heartilly", "Dincht", "Tilmitt", "Leonhart", "Trepe", "Kinneas" };

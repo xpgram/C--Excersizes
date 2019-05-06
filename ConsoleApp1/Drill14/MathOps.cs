@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace Drill14
 {
     public class MathOps
     {

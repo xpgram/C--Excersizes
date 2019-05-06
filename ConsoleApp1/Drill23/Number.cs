@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace Drill23
 {
     struct Number {
         public decimal Amount { get; set; }

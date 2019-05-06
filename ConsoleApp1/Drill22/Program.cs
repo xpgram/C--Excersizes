@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace Drill22
 {
     static class Program
     {
-        static void Main()
+        public static void run()
         {
             bool done = false;
             string str;
