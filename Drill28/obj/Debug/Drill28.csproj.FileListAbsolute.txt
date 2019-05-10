@@ -1,0 +1,7 @@
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\bin\Debug\Drill28.exe.config
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\bin\Debug\Drill28.exe
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\bin\Debug\Drill28.pdb
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\obj\Debug\Drill28.csprojAssemblyReference.cache
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\obj\Debug\Drill28.csproj.CoreCompileInputs.cache
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\obj\Debug\Drill28.exe
+\\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\Drill28\obj\Debug\Drill28.pdb
