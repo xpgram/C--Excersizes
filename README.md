@@ -7,4 +7,5 @@ Drill 22: Enums
 Drill 23: Structs  
 Drill 24: Lambda Functions  
 Drill 25: File IO  
-Drill 26: Datetime Objects
+Drill 26: Datetime Objects  
+Drill 27: Constants, Var, and Constructor Chaining
