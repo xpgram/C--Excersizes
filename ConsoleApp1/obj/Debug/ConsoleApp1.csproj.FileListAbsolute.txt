@@ -5,3 +5,10 @@
 \\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 \\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 \\xpgwin\Users\XPGram\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\xpgra\Home\GitHub\C-Sharp-Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
