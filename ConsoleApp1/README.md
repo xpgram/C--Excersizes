@@ -1,5 +1,12 @@
 # C# Exercises
 
+This is where most of my drills for the C# portion of my time at The Tech Academy are kept. They're all in one project, so loading the '.sln' in Visual Studio "opens" all of them.
+
+There are, I believe, instructions on how to do this inside the project, but just in case:
+Each drill is its own namespace, so from runner.cs, just change 'Drill24' to the digit number of any folder name. Like, '01', '02', etc. You'll get it.
+
+Below is a list of what lesson each drill was meant to demonstrate.
+
 ./ConsoleApp1  
 Drill 01: Testing IO  
 Drill 02: Datatypes and input storage  
